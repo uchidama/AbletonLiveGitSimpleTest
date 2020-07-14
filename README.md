@@ -17,5 +17,5 @@ File -> Manage Files -> Manage Project -> Packing "Create Pack"
 <a href="https://gyazo.com/f7cb85434bc574e9ecf014a7606ecc3f"><img src="https://i.gyazo.com/f7cb85434bc574e9ecf014a7606ecc3f.png" alt="Image from Gyazo" width="235"/></a>
 
 # おまけ
-[このプロジェクトで再生されるサウンド](https://youtu.be/V-zpshjV-eo)
+[このプロジェクトで再生されるサウンド](https://youtu.be/V-zpshjV-eo)  
 MIDIだけの入力だと管理するファイルが単純過ぎて確認にならないので、ギターも録音して入れた。
