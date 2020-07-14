@@ -1,0 +1,5 @@
+## git-lfs ##
+
+#Ableton Live APL File
+*.alp filter=lfs diff=lfs merge=lfs -text
+
