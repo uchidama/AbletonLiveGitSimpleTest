@@ -14,7 +14,8 @@ Ableton Live Git Simple Test
 File -> Manage Files -> Manage Project -> Packing "Create Pack"  
 
 ### 日本語版
-<a href="https://gyazo.com/f7cb85434bc574e9ecf014a7606ecc3f"><img src="https://i.gyazo.com/f7cb85434bc574e9ecf014a7606ecc3f.png" alt="Image from Gyazo" width="235"/></a>
+<a href="https://gyazo.com/f7cb85434bc574e9ecf014a7606ecc3f"><img src="https://i.gyazo.com/f7cb85434bc574e9ecf014a7606ecc3f.png" alt="Image from Gyazo" width="235"/></a>  
+ファイル -> ファイルの管理 -> プロジェクトの管理 -> パッキング "パックを作成"  
 
 # おまけ
 [このプロジェクトで再生されるサウンド](https://youtu.be/V-zpshjV-eo)  
